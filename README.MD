@@ -1,1 +1,1 @@
-Works in Adobe CS6
+Works in Adobe CS6 Master Collection in a Windows Server 2008 R2 Vitrual Machine.
